@@ -55,7 +55,7 @@ export const PRODUCTS = [
   {
     id: 8,
     productName: "Base-Cap",
-    price: 13.0,
+    price: 13.3,
     productImage: product8,
   },
 ];
